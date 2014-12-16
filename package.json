@@ -1,0 +1,34 @@
+{
+  "name": "test-away3d-node-build",
+  "version": "1.0.0",
+  "description": "A test for building flash projects using nodejs tools.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Tomasz Dysinski",
+    "email": "oz@bunnybones.com",
+    "url": "https://github.com/bunnybones1"
+  },
+  "dependencies": {
+    "away3d-core-fp11": "^4.1.6",
+    "fleecy": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "as3",
+    "away3d",
+    "flash",
+    "air"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bunnybones1/test-away3d-node-build.git"
+  },
+  "homepage": "https://github.com/bunnybones1/test-away3d-node-build",
+  "bugs": {
+    "url": "https://github.com/bunnybones1/test-away3d-node-build/issues"
+  }
+}
